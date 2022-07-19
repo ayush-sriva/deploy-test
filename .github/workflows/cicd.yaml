@@ -16,8 +16,8 @@ jobs:
           USERNAME: ayush-sriva
 
       - name: executing remote ssh commands using ssh key
-        uses: appleboy/ssh-action@master
-        with:
+        uses: kroniak/ssh-client
+        env:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.PVT_KEY }}
