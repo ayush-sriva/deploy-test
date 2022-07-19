@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar renders correctly 1`] = `
+<div
+  className="MuiAvatar-root MuiAvatar-circular css-1wlk0hk-MuiAvatar-root"
+>
+  <img
+    alt="test-user-avatar"
+    className="MuiAvatar-img css-1pqm26d-MuiAvatar-img"
+    src="../../../../public/assets/illustrations/user-img.png"
+  />
+</div>
+`;

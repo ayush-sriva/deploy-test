@@ -1,0 +1,277 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`JobDescriptionTemplate renders correctly 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-l8w7le-MuiPaper-root"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1vpwcmr-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root css-phpnom-MuiPaper-root-MuiCard-root"
+      >
+        <div
+          className="MuiCardHeader-root css-so20wf-MuiCardHeader-root"
+        >
+          <div
+            className="MuiCardHeader-avatar css-1ssile9-MuiCardHeader-avatar"
+          >
+            <img
+              alt="company_logo"
+              className="css-dejdd"
+              src="hp.png"
+            />
+          </div>
+          <div
+            className="MuiCardHeader-content css-1qbkelo-MuiCardHeader-content"
+          >
+            <span
+              className="MuiTypography-root MuiTypography-body2 MuiCardHeader-title css-et1ao3-MuiTypography-root"
+            >
+              <div
+                className="MuiBox-root css-0"
+              >
+                <h6
+                  className="MuiTypography-root MuiTypography-subtitle1 makeStyles-title-1 css-10wpov9-MuiTypography-root"
+                >
+                  User Experience Designer
+                </h6>
+                <span
+                  className="MuiTypography-root MuiTypography-caption makeStyles-location-3 css-1sn4lm3-MuiTypography-root"
+                >
+                  HP
+                </span>
+              </div>
+            </span>
+            <span
+              className="MuiTypography-root MuiTypography-body2 MuiCardHeader-subheader css-83ijpv-MuiTypography-root"
+            >
+              <div
+                className="MuiBox-root css-0"
+              >
+                <span
+                  className="MuiTypography-root MuiTypography-caption makeStyles-location-3 css-1sn4lm3-MuiTypography-root"
+                >
+                  Hyderabad, Telangana, India
+                </span>
+                <br />
+                <span
+                  className="MuiTypography-root MuiTypography-captionBold makeStyles-location-3 css-37jdci-MuiTypography-root"
+                >
+                  36min ago
+                </span>
+              </div>
+            </span>
+          </div>
+          <div
+            className="MuiCardHeader-action css-sgoict-MuiCardHeader-action"
+          >
+            <div
+              className="css-u1w75p"
+            >
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-yoei7b-MuiSvgIcon-root-MuiSvgIcon-root"
+                data-testid="SVGIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiCardActions-root MuiCardActions-spacing css-vb1tq8-MuiCardActions-root"
+        >
+          <button
+            className="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButtonBase-root  css-1k23hlb-MuiButtonBase-root-MuiButton-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiTypography-root MuiTypography-captionBold css-37jdci-MuiTypography-root"
+            >
+              Save
+            </span>
+          </button>
+          <button
+            className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButtonBase-root  css-11qr2p8-MuiButtonBase-root-MuiButton-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="submit"
+          >
+            <span
+              className="MuiTypography-root MuiTypography-captionBold css-37jdci-MuiTypography-root"
+            >
+              Apply
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <hr
+      className="css-1jtvw9i"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-1320j2h-MuiPaper-root"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1vpwcmr-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item css-wtzyda-MuiGrid-root"
+          >
+            <p
+              className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+            >
+              Description
+            </p>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item css-63rm72-MuiGrid-root"
+          >
+            <p
+              className="MuiTypography-root MuiTypography-body2 css-e784if-MuiTypography-root"
+            >
+              Open Text is seeking a talented, personable interaction designer who can assist the User Experience Design team by working with other designers and development teams on a variety of projects. The OpenText User Experience Design group is a distributed multi-disciplinary team of professionals that are responsible for enhancing the UX of the company’s collective product suites worldwide.
+            </p>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item css-wtzyda-MuiGrid-root"
+          >
+            <p
+              className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+            >
+              About Company
+            </p>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item css-63rm72-MuiGrid-root"
+          >
+            <p
+              className="MuiTypography-root MuiTypography-body2 css-e784if-MuiTypography-root"
+            >
+              High level of proficiency with leading UX Design software packages, such as Axure, Sketch, InVision, or Experience Design including the core Adobe Creative Suite products.
+            </p>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item css-63rm72-MuiGrid-root"
+          >
+            <p
+              className="MuiTypography-root MuiTypography-body2 css-e784if-MuiTypography-root"
+            >
+              Excellent written and oral communication and presentation skills
+              <span>
+                 
+                <button
+                  className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeLarge MuiButton-textSizeLarge MuiButtonBase-root  css-kpm0tx-MuiButtonBase-root-MuiButton-root"
+                  disabled={false}
+                  onBlur={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={0}
+                  type="submit"
+                >
+                  <p
+                    className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+                  >
+                    SEE MORE
+                  </p>
+                </button>
+                 
+              </span>
+            </p>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item css-vqb5yb-MuiGrid-root"
+            data-testid="Button1001"
+          >
+            <button
+              className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-1hge7y5-MuiButtonBase-root-MuiButton-root"
+              disabled={false}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              Green Commute Routes
+              <span
+                className="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+              >
+                <svg
+                  aria-hidden={true}
+                  className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  color="#30A193"
+                  data-testid="ArrowForwardIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+                  />
+                </svg>
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Job card test renders the app header correctly 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root css-haee1d-MuiPaper-root-MuiCard-root"
+>
+  <div
+    className="MuiCardHeader-root css-185gdzj-MuiCardHeader-root"
+  >
+    <div
+      className="MuiCardHeader-avatar css-1ssile9-MuiCardHeader-avatar"
+    >
+      <img
+        alt="Logo"
+        data-testid="logo"
+        src=""
+      />
+    </div>
+    <div
+      className="MuiCardHeader-content css-1qbkelo-MuiCardHeader-content"
+    />
+    <div
+      className="MuiCardHeader-action css-sgoict-MuiCardHeader-action"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="MoreHorizIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+        />
+      </svg>
+    </div>
+  </div>
+  <div
+    className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-direction-xs-column css-ffjoah-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-subtitle1 makeStyles-title-1 css-10wpov9-MuiTypography-root"
+        >
+          Dev
+        </h6>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-caption makeStyles-companyName-2 css-1sn4lm3-MuiTypography-root"
+        >
+          HP
+        </span>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-caption makeStyles-location-3 css-1sn4lm3-MuiTypography-root"
+        >
+          Hyderabad
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiCardActions-root MuiCardActions-spacing makeStyles-cActions-6 css-1t6e9jv-MuiCardActions-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container makeStyles-textColor-5 css-11lq3yg-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-caption css-1sn4lm3-MuiTypography-root"
+        >
+          Commute routes available
+        </span>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-5 makeStyles-icons-7 css-11wxa9r-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="SVGIcon"
+          focusable="false"
+        >
+          scootyIcon.svg
+        </svg>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="SVGIcon"
+          focusable="false"
+        >
+          busIcon.svg
+        </svg>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="SVGIcon"
+          focusable="false"
+        >
+          cabIcon.svg
+        </svg>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="SVGIcon"
+          focusable="false"
+        >
+          metroIcon.svg
+        </svg>
+      </div>
+    </div>
+    <span
+      className="MuiTypography-root MuiTypography-caption css-r9sokm-MuiTypography-root"
+    />
+  </div>
+</div>
+`;

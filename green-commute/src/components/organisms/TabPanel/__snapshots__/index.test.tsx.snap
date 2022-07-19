@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tab Panel Test renders the tab panel 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item css-1p1lgg-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+      data-testid="item-container"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-2s90m6-MuiAvatar-root"
+        >
+          1
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-alignJustify css-669lo9-MuiTypography-root"
+        >
+          Your Location
+        </h6>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item css-1p1lgg-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+      data-testid="item-container"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-2s90m6-MuiAvatar-root"
+        >
+          2
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-alignJustify css-tv3ey-MuiTypography-root"
+        >
+          Job Location
+        </h6>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item css-1p1lgg-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+      data-testid="item-container"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-2s90m6-MuiAvatar-root"
+        >
+          3
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-alignJustify css-tv3ey-MuiTypography-root"
+        >
+          Your Skills
+        </h6>
+      </div>
+    </div>
+  </div>
+</div>
+`;
