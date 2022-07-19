@@ -21,4 +21,4 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.PVT_KEY }}
-          script: whoami
+          run: whoami
