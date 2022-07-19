@@ -21,7 +21,7 @@ jobs:
           host: 18.222.176.104
           username: ubuntu
           port: 22
-          key: ${{ secrets.PRIVATE_KEY }}
+          key: ${{ secrets.PVT_KEY }}
           debug: true
           script: |
             docker login https://ghcr.io -u ${{ secrets.REGISTRY_USERNAME }} --password ${{ secrets.REGISTRY_TOKEN }}
