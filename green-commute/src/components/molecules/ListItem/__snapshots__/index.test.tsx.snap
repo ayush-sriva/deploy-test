@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Item Snapshot renders list item correctly 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 makeStyles-paper-10 css-1ps6pg7-MuiPaper-root"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-15hauir-MuiGrid-root"
+    data-testid="main-grid"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1.5 makeStyles-grid-11 css-1duidt6-MuiGrid-root"
+      data-testid="logo-grid"
+    >
+      <img
+        alt="Logo"
+        data-testid="logo"
+        src="../../../../public/assets/logos/rapido.png"
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-sm-true css-unluoz-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-direction-xs-column css-1oolkk7-MuiGrid-root"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-6 css-137v0wv-MuiGrid-root"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-captionBold css-37jdci-MuiTypography-root"
+          >
+            Rapido
+          </span>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-6 css-137v0wv-MuiGrid-root"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-caption css-1sn4lm3-MuiTypography-root"
+          >
+            Approximately
+             ₹
+            70
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+      data-testid="book-now"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-captionBold makeStyles-colorText-12 css-37jdci-MuiTypography-root"
+      >
+        Book Now
+      </span>
+    </div>
+  </div>
+</div>
+`;

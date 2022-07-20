@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when filter has items 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1idn90j-MuiGrid-root"
+  >
+    <h2
+      className="MuiTypography-root MuiTypography-h2 css-6jajho-MuiTypography-root"
+    >
+      Job list
+    </h2>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1idn90j-MuiGrid-root"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body2 css-t87ivq-MuiTypography-root"
+    >
+      Based on your search
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container css-lx13dv-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-11 css-ykovpn-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container css-1jzi3sl-MuiGrid-root"
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1 css-16gjb1v-MuiGrid-root"
+    >
+      <button
+        className="MuiButton-root MuiButton-text MuiButton-textError MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-10fi992-MuiButtonBase-root-MuiButton-root"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="reset"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+        >
+          Clear All
+        </p>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders correctly when filter has no items 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1idn90j-MuiGrid-root"
+  >
+    <h2
+      className="MuiTypography-root MuiTypography-h2 css-6jajho-MuiTypography-root"
+    >
+      Job list
+    </h2>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1idn90j-MuiGrid-root"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body2 css-t87ivq-MuiTypography-root"
+    >
+      Based on your search
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container css-lx13dv-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-11 css-ykovpn-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container css-1jzi3sl-MuiGrid-root"
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1 css-16gjb1v-MuiGrid-root"
+    />
+  </div>
+</div>
+`;

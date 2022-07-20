@@ -1,0 +1,195 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main Card Test renders the main card 1`] = `
+<div
+  className="MuiContainer-root MuiContainer-maxWidthLg css-1phxsb3-MuiContainer-root"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-6gh8l0-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item css-8q5yis-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item css-1p1lgg-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+            data-testid="item-container"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+            >
+              <div
+                className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-2s90m6-MuiAvatar-root"
+              >
+                1
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-alignJustify css-669lo9-MuiTypography-root"
+              >
+                Your Location
+              </h6>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item css-1p1lgg-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+            data-testid="item-container"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+            >
+              <div
+                className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-2s90m6-MuiAvatar-root"
+              >
+                2
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-alignJustify css-tv3ey-MuiTypography-root"
+              >
+                Job Location
+              </h6>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item css-1p1lgg-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+            data-testid="item-container"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+            >
+              <div
+                className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-2s90m6-MuiAvatar-root"
+              >
+                3
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+            >
+              <h6
+                className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-alignJustify css-tv3ey-MuiTypography-root"
+              >
+                Your Skills
+              </h6>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item css-1df6ge6-MuiGrid-root"
+    >
+      <h1
+        className="MuiTypography-root MuiTypography-h1 css-o2w69a-MuiTypography-root"
+      >
+        More than 2000 people are using Green Commute
+      </h1>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-subtitle1 css-1mdleez-MuiTypography-root"
+      >
+        Where do you stay?
+      </h6>
+      <div
+        className="MuiFormControl-root MuiTextField-root css-omd3jb-MuiFormControl-root-MuiTextField-root"
+      >
+        <div
+          className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            autoFocus={false}
+            className="MuiOutlinedInput-input MuiInputBase-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+            disabled={false}
+            id=":r0:"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            placeholder="Enter your location"
+            required={false}
+            type="text"
+            value=""
+          />
+          <fieldset
+            aria-hidden={true}
+            className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              className="css-hdw1oc"
+            >
+              <span
+                className="notranslate"
+              >
+                ​
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item css-1h8ojxo-MuiGrid-root"
+    >
+      <button
+        className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-sghohy-MuiButtonBase-root-MuiButton-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+        >
+          Next
+        </p>
+      </button>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-subtitle1 css-1223bt7-MuiTypography-root"
+      >
+        Skip
+      </h6>
+    </div>
+  </div>
+</div>
+`;

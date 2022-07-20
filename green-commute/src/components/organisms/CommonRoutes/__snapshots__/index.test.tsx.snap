@@ -1,0 +1,238 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CabCard renders correctly 1`] = `
+<div
+  className="css-161lkjs"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1vpwcmr-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item css-1mezf00-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="SVGIcon"
+            focusable="false"
+            onClick={[Function]}
+          >
+            back.svg
+          </svg>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item css-1ggtfkp-MuiGrid-root"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            Common Routes
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-19b244t-MuiGrid-root"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container css-1l6u3q4-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item css-1xdnh0t-MuiGrid-root"
+            >
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                locPad.svg
+              </svg>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+            >
+              <span
+                className="MuiTypography-root MuiTypography-caption css-1sn4lm3-MuiTypography-root"
+              >
+                E Marredpally, Secunderabad
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-2fic16-MuiGrid-root"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item css-1qigs08-MuiGrid-root"
+                >
+                  <img
+                    alt="Icon"
+                    data-testid="icon"
+                    src="eclipse.png"
+                  />
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item css-1qigs08-MuiGrid-root"
+                >
+                  <img
+                    alt="Icon"
+                    data-testid="icon"
+                    src="eclipse.png"
+                  />
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item css-1qigs08-MuiGrid-root"
+                >
+                  <img
+                    alt="Icon"
+                    data-testid="icon"
+                    src="eclipse.png"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-k5lhzi-MuiGrid-root"
+            >
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                swap.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container css-1oqpikl-MuiGrid-root"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+            >
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                locationIconOrange.svg
+              </svg>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item css-f7jlhk-MuiGrid-root"
+            >
+              <span
+                className="MuiTypography-root MuiTypography-caption css-1sn4lm3-MuiTypography-root"
+              >
+                Hitech City, Telanagana, Hyderabad.
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container css-wjupq5-MuiGrid-root"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div
+          className="css-k3x4ur"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            scootyIcon.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div
+          className="makeStyles-container4-1"
+          onClick={[Function]}
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium makeStyles-iconAlignment-2 css-i4bv87-MuiSvgIcon-root"
+            focusable="false"
+            onClick={[Function]}
+            viewBox="0 0 24 24"
+          >
+            busIconWhite.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div
+          onClick={[Function]}
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium makeStyles-iconAlignment-2 css-i4bv87-MuiSvgIcon-root"
+            focusable="false"
+            onClick={[Function]}
+            viewBox="0 0 24 24"
+          >
+            cabIcon.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div
+          className="css-k3x4ur"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            metroIcon.svg
+          </svg>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
