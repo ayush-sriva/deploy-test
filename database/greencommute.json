@@ -1,0 +1,314 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "Hyderabad",
+      "aqi_value": 894
+    },
+    {
+      "id": 2,
+      "name": "Mumbai",
+      "aqi_value": 953
+    },
+    {
+      "id": 3,
+      "name": "Haryana",
+      "aqi_value": 358
+    },
+    {
+      "id": 4,
+      "name": "New Delhi",
+      "aqi_value": 564
+    },
+    {
+      "id": 5,
+      "name": "Punjab",
+      "aqi_value": 786
+    },
+    {
+      "id": 6,
+      "name": "Chandigarh",
+      "aqi_value": 656
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@mockserver.com",
+      "gender": "Female"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Product Designer"
+    },
+    {
+      "id": 2,
+      "name": "UI/UX Designer"
+    },
+    {
+      "id": 3,
+      "name": "Full Stack Developer"
+    },
+    {
+      "id": 4,
+      "name": "Front End Engineer"
+    },
+    {
+      "id": 5,
+      "name": "Back End Engineer"
+    },
+    {
+      "id": 6,
+      "name": "DevOps Engineer"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "time": "4 days ago",
+      "title": "User Experience Designer",
+      "companyName": "Myntra",
+      "companyIcon": "/images/myntra.png",
+      "location": "Hyderabad, Telangana, India",
+      "description": "Open Text is seeking a talented, personable interaction designer who can assist the User Experience Design team by working with other designers and development teams on a variety of projects. The OpenText User Experience Design group is a distributed multi-disciplinary team of professionals that are responsible for enhancing the UX of the company’s collective product suites worldwide.",
+      "about": "High level of proficiency with leading UX Design software packages, such as Axure, Sketch, InVision, or Experience Design including the core Adobe Creative Suite products.Excellent written and oral communication and presentation skills  SEE MORE",
+      "greenCommute": true,
+      "experienceLevel": "Fresher",
+      "jobType": "Internship",
+      "datePosted": "Past 24 Hours",
+      "distance": "6"
+    },
+    {
+      "id": 2,
+      "time": "10 Days ago",
+      "title": "Product Designer",
+      "companyName": "BMW",
+      "companyIcon": "/images/bmw.png",
+      "location": "Hyderabad , Telangana,India",
+      "description": "Open Text is seeking a talented, personable interaction designer who can assist the User Experience Design team by working with other designers and development teams on a variety of projects. The OpenText User Experience Design group is a distributed multi-disciplinary team of professionals that are responsible for enhancing the UX of the company’s collective product suites worldwide.",
+      "about": "High level of proficiency with leading UX Design software packages, such as Axure, Sketch, InVision, or Experience Design including the core Adobe Creative Suite products. Excellent written and oral communication and presentation skills  SEE MORE",
+      "greenCommute": true,
+      "experienceLevel": "Mid Level",
+      "jobType": "Contract",
+      "datePosted": "Past Week",
+      "distance": "22"
+    },
+    {
+      "id": 3,
+      "time": "45 min ago",
+      "title": "User Experience Designer",
+      "companyName": "Instagram",
+      "companyIcon": "/images/instagram.png",
+      "location": "Hyderabad , Telangana,India",
+      "description": "Open Text is seeking a talented, personable interaction designer who can assist the User Experience Design team by working with other designers and development teams on a variety of projects. The OpenText User Experience Design group is a distributed multi-disciplinary team of professionals that are responsible for enhancing the UX of the company’s collective product suites worldwide.",
+      "about": "High level of proficiency with leading UX Design software packages, such as Axure, Sketch, InVision, or Experience Design including the core Adobe Creative Suite products. Excellent written and oral communication and presentation skills  SEE MORE",
+      "greenCommute": true,
+      "experienceLevel": "Executive",
+      "jobType": "Full time",
+      "datePosted": "Past month",
+      "distance": "32"
+    },
+    {
+      "id": 4,
+      "time": "1hr 36 mins ago",
+      "title": "User Experience Designer",
+      "companyName": "HP",
+      "companyIcon": "/images/hp.png",
+      "location": "Hyderabad , Telangana,India",
+      "description": "Open Text is seeking a talented, personable interaction designer who can assist the User Experience Design team by working with other designers and development teams on a variety of projects. The OpenText User Experience Design group is a distributed multi-disciplinary team of professionals that are responsible for enhancing the UX of the company’s collective product suites worldwide.",
+      "about": "High level of proficiency with leading UX Design software packages, such as Axure, Sketch, InVision, or Experience Design including the core Adobe Creative Suite products. Excellent written and oral communication and presentation skills  SEE MORE",
+      "greenCommute": true,
+      "experienceLevel": "Director",
+      "jobType": "Remote",
+      "datePosted": "Past month",
+      "distance": "18"
+    },
+    {
+      "id": 5,
+      "time": "1 week ago",
+      "title": "User Experience Designer",
+      "companyName": "Twitter",
+      "companyIcon": "/images/twitter.png",
+      "location": "Hyderabad , Telangana,India",
+      "description": "Open Text is seeking a talented, personable interaction designer who can assist the User Experience Design team by working with other designers and development teams on a variety of projects. The OpenText User Experience Design group is a distributed multi-disciplinary team of professionals that are responsible for enhancing the UX of the company’s collective product suites worldwide.",
+      "about": "High level of proficiency with leading UX Design software packages, such as Axure, Sketch, InVision, or Experience Design including the core Adobe Creative Suite products. Excellent written and oral communication and presentation skills  SEE MORE",
+      "greenCommute": true,
+      "experienceLevel": "Mid Level",
+      "jobType": "Contract",
+      "datePosted": "Past month",
+      "distance": "16"
+    },
+    {
+      "id": 6,
+      "time": "10 days ago",
+      "title": "User Experience Designer",
+      "companyName": "Wipro",
+      "companyIcon": "/images/wipro.png",
+      "location": "Hyderabad , Telangana,India",
+      "description": "Open Text is seeking a talented, personable interaction designer who can assist the User Experience Design team by working with other designers and development teams on a variety of projects. The OpenText User Experience Design group is a distributed multi-disciplinary team of professionals that are responsible for enhancing the UX of the company’s collective product suites worldwide.",
+      "about": "High level of proficiency with leading UX Design software packages, such as Axure, Sketch, InVision, or Experience Design including the core Adobe Creative Suite products. Excellent written and oral communication and presentation skills  SEE MORE",
+      "greenCommute": false,
+      "experienceLevel": "Fresher",
+      "jobType": "Contract",
+      "datePosted": "Past month",
+      "distance": "28"
+    }
+  ],
+  "savedJobs": [
+    {
+      "id": 4,
+      "time": "1hr 36 mins ago",
+      "title": "User Experience Designer",
+      "companyName": "HP",
+      "companyIcon": "/images/hp.png",
+      "location": "Hyderabad , Telangana,India",
+      "description": "Open Text is seeking a talented, personable interaction designer who can assist the User Experience Design team by working with other designers and development teams on a variety of projects. The OpenText User Experience Design group is a distributed multi-disciplinary team of professionals that are responsible for enhancing the UX of the company’s collective product suites worldwide.",
+      "about": "High level of proficiency with leading UX Design software packages, such as Axure, Sketch, InVision, or Experience Design including the core Adobe Creative Suite products. Excellent written and oral communication and presentation skills  SEE MORE",
+      "greenCommute": true,
+      "experienceLevel": "Director",
+      "jobType": "Remote",
+      "datePosted": "Past month",
+      "distance": "18"
+    }
+  ],
+  "applyJobs": [
+    {
+      "id": 1,
+      "jobId": 1,
+      "userID": 1,
+      "resumePath": "file path"
+    }
+  ],
+  "filters": [
+    {
+      "id": 1,
+      "name": "Ditance Filter",
+      "values": [
+        {
+          "key": "0-10 Kms",
+          "checked": true
+        },
+        {
+          "key": "11-20 Kms",
+          "checked": false
+        },
+        {
+          "key": "21-30 Kms",
+          "checked": false
+        },
+        {
+          "key": "31-40 Kms",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Date Posted",
+      "values": [
+        {
+          "key": "Past 24 hours",
+          "checked": true
+        },
+        {
+          "key": "Past week",
+          "checked": false
+        },
+        {
+          "key": "Past month",
+          "checked": false
+        },
+        {
+          "key": "Anytime",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Green Commute",
+      "values": [
+        {
+          "key": "Yes",
+          "checked": true
+        },
+        {
+          "key": "No",
+          "checked": false
+        }
+      ],
+      "radio": true
+    },
+    {
+      "id": 4,
+      "name": "Job Type",
+      "values": [
+        {
+          "key": "Full Time",
+          "checked": true
+        },
+        {
+          "key": "Internship",
+          " checked": false,
+          "checked": true
+        },
+        {
+          "key": "Contract",
+          "checked": true
+        },
+        {
+          "key": "Remote",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Experience Level",
+      "values": [
+        {
+          "key": "Fresher",
+          "checked": true
+        },
+        {
+          "key": "Mid-level",
+          "checked": true
+        },
+        {
+          "key": "Director",
+          "checked": true
+        },
+        {
+          "key": "Executive",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Transport",
+      "values": [
+        {
+          "key": "Metro",
+          "checked": false
+        },
+        {
+          "key": "Bus",
+          "checked": true
+        },
+        {
+          "key": "Car Pooling",
+          "checked": true
+        },
+        {
+          "key": "Motor Cycle",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}
